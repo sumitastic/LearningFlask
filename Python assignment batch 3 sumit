@@ -1,4 +1,4 @@
-# Solution to Exercise 3
+# Solution Graded Assignment on Python DevOps B3
 import re
 
 def validate_password(password):
